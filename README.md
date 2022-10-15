@@ -15,7 +15,7 @@ cd src/HelloWorld
 dotnet run
 ```
 
-The server with start on the address `http://127.0.0.1:8080`.
+The server will start on the address `http://127.0.0.1:8080`.
 
 ## Queries
 
