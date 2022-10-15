@@ -31,6 +31,8 @@ query {
 }
 ```
 
+![image](https://user-images.githubusercontent.com/430272/195999560-20927bd0-d948-4815-b723-a0baa452036f.png)
+
 Query with fragments:
 
 ```graphql
@@ -51,6 +53,8 @@ query {
     }
 }
 ```
+
+![image](https://user-images.githubusercontent.com/430272/195999585-37f566db-bab0-4aca-8caf-32e25c60d3e3.png)
 
 ## Acknowledgments
 
