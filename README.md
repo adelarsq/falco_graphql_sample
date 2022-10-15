@@ -11,7 +11,7 @@ This project is a sample showing how to use GraphQL on Falco using [.NET 6](http
 On the terminal run with:
 
 ```
-cd src/App
+cd src/HelloWorld
 dotnet run
 ```
 
