@@ -1,4 +1,4 @@
-# Falco GraphQL Sample using .NET 6
+# Falco GraphQL Sample using .NET 7
 
 [Falco](https://www.falcoframework.com/) is a toolkit for building secure, fast, functional-first and fault-tolerant web applications using [F#](https://fsharp.org).
 
