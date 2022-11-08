@@ -6,6 +6,8 @@
 
 This project is a sample showing how to use GraphQL on Falco using [.NET 6](https://dotnet.microsoft.com).
 
+For .NET 6 check [dotnet_6](https://github.com/adelarsq/falco_graphql_sample/tree/dotnet_6) branch.
+
 ## How to use?
 
 On the terminal run with:
