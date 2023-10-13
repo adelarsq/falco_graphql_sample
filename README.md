@@ -1,12 +1,10 @@
-# Falco GraphQL Sample using .NET 7
+# Falco GraphQL Sample using .NET 8
 
 [Falco](https://www.falcoframework.com/) is a toolkit for building secure, fast, functional-first and fault-tolerant web applications using [F#](https://fsharp.org).
 
 [GraphQL](https://graphql.org) is an open-source data query and manipulation language for APIs.
 
-This project is a sample showing how to use GraphQL on Falco using [.NET 6](https://dotnet.microsoft.com).
-
-For .NET 6 check [dotnet_6](https://github.com/adelarsq/falco_graphql_sample/tree/dotnet_6) branch.
+This project is a sample showing how to use GraphQL on Falco using [.NET 8](https://dotnet.microsoft.com).
 
 ## How to use?
 
